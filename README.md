@@ -1,4 +1,4 @@
-# Listapp1
+# Android Stock List App
 This is a basic list app. It displays the price of three stocks.
 There is also a google button once you press on the stock that 
 will check to see if there is a google browser on the device so
